@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web 2.0
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Soldity
-- 😄 Pronouns: He
 - ⚡ Fun fact: I am funny asf
 
 <!---
